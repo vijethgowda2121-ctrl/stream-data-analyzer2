@@ -1,0 +1,10 @@
+.metric-card {
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
